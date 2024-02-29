@@ -1,0 +1,10 @@
+C:\Proiecte\Calculator\X&O\X&O\bin\Debug\X&O.exe.config
+C:\Proiecte\Calculator\X&O\X&O\bin\Debug\X&O.exe
+C:\Proiecte\Calculator\X&O\X&O\bin\Debug\X&O.pdb
+C:\Proiecte\Calculator\X&O\X&O\obj\Debug\X&O.csproj.AssemblyReference.cache
+C:\Proiecte\Calculator\X&O\X&O\obj\Debug\X_O.Form1.resources
+C:\Proiecte\Calculator\X&O\X&O\obj\Debug\X_O.Properties.Resources.resources
+C:\Proiecte\Calculator\X&O\X&O\obj\Debug\X&O.csproj.GenerateResource.cache
+C:\Proiecte\Calculator\X&O\X&O\obj\Debug\X&O.csproj.CoreCompileInputs.cache
+C:\Proiecte\Calculator\X&O\X&O\obj\Debug\X&O.exe
+C:\Proiecte\Calculator\X&O\X&O\obj\Debug\X&O.pdb
